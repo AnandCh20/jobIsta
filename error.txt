@@ -1,0 +1,33 @@
+Error: Forced Error
+Error: Forced Error
+Error: Forced Error
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: userToString is not defined
+Error: Cannot read properties of undefined (reading '_id')
+Error: undefined
+Error: undefined
+Error: undefined
+Error: Job validation failed: jobType: `Full Time` is not a valid enum value for path `jobType`.
+Error: Cannot read properties of undefined (reading '_id')
+Error: Cannot read properties of undefined (reading '_id')
+Error: Job validation failed: jobType: `Full Time` is not a valid enum value for path `jobType`.
+Error: Job validation failed: jobType: `Full Time` is not a valid enum value for path `jobType`.
+Error: Job validation failed: jobType: `Full Time` is not a valid enum value for path `jobType`.
+Error: Job validation failed: jobType: `Full Time` is not a valid enum value for path `jobType`.
+Error: Job validation failed: jobType: `Full-time, Part-time, Contract` is not a valid enum value for path `jobType`.
+Error: Job validation failed: monthlySalary: Path `monthlySalary` is required., jobPosition: Path `jobPosition` is required., logoUrl: Path `logoUrl` is required., companyName: Path `companyName` is required.
